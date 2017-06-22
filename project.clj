@@ -1,4 +1,4 @@
-(defproject dwr71/jargon-repl "0.1.0-SNAPSHOT"
+(defproject dwr71/jargon-repl "0.0.1-SNAPSHOT"
   :description "Convenience functions for testing iRODS Jargon in a Clojure REPL."
   :url "https://github.com/dennisroberts71/jargon-repl"
   :license {:name "Eclipse Public License"
